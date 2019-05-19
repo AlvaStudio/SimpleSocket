@@ -40,6 +40,9 @@ class SocketListener extends Thread {
                     System.out.println();
                     System.out.println(incomingString);
                     System.out.println("----------");
+                    if (incomingString.equalsIgnoreCase("exit")) {
+                        System.out.println("Client exit");
+                    }
                 } else {
                     System.out.println("Socket is NULL");
                 }
@@ -48,7 +51,5 @@ class SocketListener extends Thread {
             }
         }
     }
-    
-    
     
 }

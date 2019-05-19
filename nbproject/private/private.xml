@@ -3,11 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/alexsid/NetBeansProjects/SimpleSocket/src/simplesocket/SocketListener.java</file>
-            <file>file:/Users/alexsid/NetBeansProjects/SimpleSocket/src/simplesocket/SimpleSocket.java</file>
-            <file>file:/Users/alexsid/NetBeansProjects/SimpleSocket/src/simplesocket/SocketSender.java</file>
-            <file>file:/Users/alexsid/NetBeansProjects/SimpleSocket/src/simplesocket/Const.java</file>
-            <file>file:/Users/alexsid/NetBeansProjects/SimpleSocket/src/simplesocket/ASocket.java</file>
+            <file>file:/Volumes/Work/Development/Projects/NetBeansProjects/SimpleSocket/src/simplesocket/Const.java</file>
+            <file>file:/Volumes/Work/Development/Projects/NetBeansProjects/SimpleSocket/src/simplesocket/SocketListener.java</file>
+            <file>file:/Volumes/Work/Development/Projects/NetBeansProjects/SimpleSocket/src/simplesocket/ASocket.java</file>
         </group>
     </open-files>
 </project-private>

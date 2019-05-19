@@ -18,6 +18,6 @@ public abstract class Const {
     // Server API
     public static final int PORT = 8283;
     public static final String ADDRESS =  "127.0.0.1";//"127.0.0.1";localhost
-    public static final int SERVERSOCKETTIMEOUT = 30000;
+    public static final int SERVERSOCKETTIMEOUT = 0;
     
 }
